@@ -1,0 +1,6 @@
+name: cleanwordpress
+recipe: pantheon
+config:
+  framework: wordpress
+  site: cleanwordpress
+  id: a6730e14-6932-4aa6-9bf4-c1b236075dea
