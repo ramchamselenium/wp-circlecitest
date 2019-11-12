@@ -1,6 +1,6 @@
-name: cleanwordpress
+name: wordpress111219-1
 recipe: pantheon
 config:
   framework: wordpress
-  site: cleanwordpress
-  id: a6730e14-6932-4aa6-9bf4-c1b236075dea
+  site: wordpress111219-1
+  id: d07949cf-d51f-45b5-80b2-0f284d6ea5c3
